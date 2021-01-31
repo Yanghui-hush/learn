@@ -1,0 +1,2 @@
+# learn
+about c/c++
